@@ -11,3 +11,8 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
 
 The Kubernetes command-line tool, kubectl, allows you to run commands against Kubernetes clusters. You can use kubectl to deploy applications, inspect and manage cluster resources, and view logs. 
+
+
+Kind Load Docker Image
+
+https://iximiuz.com/en/posts/kubernetes-kind-load-docker-image/
